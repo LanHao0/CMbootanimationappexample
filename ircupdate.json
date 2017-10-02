@@ -1,11 +1,11 @@
 {
-  "latestVersion": "1.1.4",
-  "latestVersionCode": 40,
+  "latestVersion": "1.1.5",
+  "latestVersionCode": 42,
   "url": "https://lanhaoo.club/irc.apk",
   "releaseNotes": [
-    "- Android O supported",
-    "- Can check the updates",
-    "- Bug fixes and reduce the size of app",
-    "- translations"
+    "- Add user terms",
+    "- Change the navigation bar and status bar color（only Android 5.0 and up）",
+    "- Bug fixes",
+    "- thanks @xiaocaicai"
   ]
 }
