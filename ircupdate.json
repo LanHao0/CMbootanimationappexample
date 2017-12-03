@@ -1,11 +1,10 @@
 {
-  "latestVersion": "1.1.5",
-  "latestVersionCode": 42,
+  "latestVersion": "1.1.6",
+  "latestVersionCode": 43,
   "url": "https://lanhaoo.club/irc.apk",
   "releaseNotes": [
-    "- Add user terms",
-    "- Change the navigation bar and status bar color（only Android 5.0 and up）",
-    "- Bug fixes",
-    "- thanks @xiaocaicai"
+    "- Now, you can copy the command in howtoactivity",
+    "- Security improvements",
+    "- Bug fixes and UI improvements",
   ]
 }
